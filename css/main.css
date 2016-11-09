@@ -22,21 +22,13 @@ body {
 }
 
 .banner-graphic {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  left: 30%;
-  top: 20%;
+  float: left;
+  width: 40%;
 }
 
 .banner-content {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  left: 50%;
-  top: 20%;
-  max-width: 50em;
-  text-align: left;
+  float: right;
+  width: 60%;
 }
 
 .banner-content h2 {
