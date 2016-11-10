@@ -23,7 +23,9 @@ body {
 
 .banner-graphic {
   float: left;
-  width: 40%;
+  width: 30%;
+  margin-left: 2rem;
+  margin-bottom: 1rem;
 }
 
 .banner-content {
